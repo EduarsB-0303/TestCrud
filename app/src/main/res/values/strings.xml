@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestCrud</string>
+    <string name="txtTitle">Elija una de las opciones</string>
+</resources>
